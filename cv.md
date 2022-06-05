@@ -1,6 +1,13 @@
 # Elizaveta Mannonova
 ## Personal data
-Last Name:	Mannonova </p> First Name: 	Elizaveta </p> Born:	on 15.01.1993 in Grodno, Republic of Belarus </p> Nationality:	Russian </p> Family status:	married </p> Address:	Moscow, Russia </p> e-mail:	lizonka1231@gmail.com </p> Phone:	+79651331655
+* **Last Name:**	Mannonova
+* **First Name:** 	Elizaveta
+* **Born:**	on 15.01.1993 in Grodno, Republic of Belarus
+* **Nationality:**	Russian
+* **Family status:**	married
+* **Address:**	Moscow, Russia
+* **e-mail:**	lizonka1231@gmail.com
+* **Phone:**	+79651331655
 ## Education
 * Synergy university / Staff records management / Moscow, Russia / 2021
 * Belorussian Economic State University / Higher school of tourism / Minsk, Belarus/ 2010 to 2015
