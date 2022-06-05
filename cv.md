@@ -34,3 +34,35 @@ Last Name:	Mannonova </p> First Name: 	Elizaveta </p> Born:	on 15.01.1993 in Gro
   * Ensuring all procedures regarding safety & security are updated and followed closely
   * Ad-hoc duties as required – unexpected moments when staff have to pull together as a team to get a task done
   * Performing the duties of Duty Manager
+* LLC «Rosa Khutor» / Radisson Hotel Rosa Khutor / Sochi, Russia / Guest Relations manager / December 2016 – April 2018
+  * Seeking ways to improve and maintain guest satisfaction scores for all front desk associates
+  * Providing ideas and suggestions for new products, services, technology and processes to ensure the hotel's vision and in anticipation of changing guest needs
+  * Responsible for reviewing daily arrivals and flagging as VIPs, coordinating amenities, ensuring proper room blocking, and handling any and all special requests
+  * Ensuring all VIP arrival rooms are checked prior to guest arrival
+  * Supervising VIP arrivals. Ensuring meet and greet for Elite member
+  * Ensuring all guest requests are met and special requirements / preferences are taken into account
+  * Developing knowledge about frequent guests and their special requests and needs. Ensuring the information is updated and maintained in guest profiles accordingly
+  * Maintaining a high level of guest satisfaction through actively communicating with the guests before, during and after the stay
+  * Providing information and assistance to all guests and visitor
+  * Providing new hires with adequate training and ongoing training for all other front desk employees
+* LLC «Rosa Khutor» / Radisson Hotel Rosa Khutor / Sochi, Russia / Administrator, Front office / November 2015 – December 2016
+  * Running and maintaining general daily office and reception operations
+  * Ensuring an efficient reception experience for Guests, including check in/out, and complete audit procedures, as required
+  * Processing all payments according to established hotel requirements
+  * Providing prompt, courteous and efficient handling of all requests for guest room reservations, changes, cancellations and information
+  * Taking calls as per set protocol (reception manual), taking clear note of the requirements, and transferring the call to the right consultant
+  * Ensuring to deliver a high level of customer service at all times
+  * Greeting and serving clients, guest, and employees with enthusiasm and a positive spirit always
+  * Following company brand standards
+  * Assisting other departments, as necessary
+## Personal skills
+* Highly motivated
+* Excellent personal presentation
+* Good interpersonal skills
+* Ability to listen and anticipate
+* Diplomacy and self-control
+* Ability to manage own time, self-organized
+* Quickly picking up new skills & knowledge
+## Computer expertise
+* Computer literate
+* Knowledge of Opera PMS, Outlook Express, MS Оffice, 1C: payroll and personnel management
