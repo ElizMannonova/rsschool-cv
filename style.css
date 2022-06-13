@@ -1,1 +1,8 @@
-Elizaveta Mannonova
+@font-face {
+    font-family: Joan-Regular;
+    src: url("assets/fonts/Joan-Regular.ttf");
+}
+
+.body {
+    font-family: Joan-Regular;
+}
